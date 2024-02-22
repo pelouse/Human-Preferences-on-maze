@@ -771,4 +771,5 @@ def complete_maze():
 
 
 if __name__ == "__main__":
-    restart_feedback()
+    add_feedback()
+    complete_maze()
